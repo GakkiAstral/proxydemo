@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="cglib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../06第六阶段：Spring/软件/软件/cglib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../06第六阶段：Spring/软件/软件/cglib" recursive="false" />
+  </library>
+</component>
